@@ -50,12 +50,6 @@ Fork this repo to your GitHub account
 - Go to browser and navigate to localhost:5000
 - Verify that your new message is shown
 
-##### Assignment Submission
-Commit and push the following:
-- Dockerfile
-- Your changes to app.py
-- Screenshot of your browser showing the new message to your forked repo
-
-Submit a link to your repo to Canvas.
-
+##### Reference 
+- https://github.com/arsalazar-usf/flask-docker
 
